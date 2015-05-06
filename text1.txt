@@ -1,0 +1,4 @@
+ I to insert 
+ : q to quit
+ : X to save and leave
+ ESC to be out of modes
