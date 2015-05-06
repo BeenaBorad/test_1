@@ -2,3 +2,21 @@
  : q to quit
  : X to save and leave
  ESC to be out of modes
+ 
+ git clone LINQ
+ 
+
+ ls
+ cd test_1
+ git status
+  touch text_2.txt
+ git status
+ git add . (addind untracked file)
+ git commit -m "new message for new text file" 
+ 
+ WTF
+ git remote add origin http://github.com/BeenaBorad/test_1.git
+ 
+ git push -u origin master
+ 
+ git pull origine master
