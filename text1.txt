@@ -14,7 +14,6 @@
  git add . (addind untracked file)
  git commit -m "new message for new text file" 
  
- WTF
  git remote add origin http://github.com/BeenaBorad/test_1.git
  
  git push -u origin master
